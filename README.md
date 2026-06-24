@@ -8,6 +8,7 @@ and if statements and so on. It's main programming langauge to create DotCode
 is Julia, which is my favorite programming langauge.
 
 **What can you do**
+
 You will be able to:
 - make games (using DotGame)
 - make music (using DotMusic)
