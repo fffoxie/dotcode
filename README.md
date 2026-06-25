@@ -1,39 +1,41 @@
 # dotcode
-The offical source code for DotCode, a programming langauge made by FFFoxie. 
 
-**What is DotCode**
-Dotcode is a programming langauge and unlike the other programming langauges 
-like Python and C#, DotCode only uses dots, and other symbols for functions
-and if statements and so on. It's main programming langauge to create DotCode
-is Julia, which is my favorite programming langauge.
+The official source code for DotCode, a programming language made by FFFoxie.
 
-**What can you do**
+What is DotCode?
+
+DotCode is a programming language. Unlike other programming languages such as Python and C#, DotCode mainly uses dots and other symbols for functions, if statements, and other programming features.
+
+Its main implementation language is Julia, which is my favorite programming language.
+
+What can you do?
 
 You will be able to:
-- make games (using DotGame)
-- make music (using DotMusic)
-- make beginner stuff in Dotcode (variables, if statements, simple games)
 
-Simple games like tic tac toe or RPS doesn't need DotGame unless it's gonna to have visuals.
+- Make games (using DotGame)
+- Make music (using DotMusic)
+- Create beginner projects in DotCode (variables, if statements, simple games)
 
-**What are the expectations in DotCode**
+Simple games such as Tic-Tac-Toe or Rock Paper Scissors do not require DotGame unless they need visuals.
 
-I really wanna see people create complex stuff with it or just make anything.
-I would really like you to post it somewhere so i can test it out! (It will be fun, but i'm not
-forcing of course)
+What are the expectations for DotCode?
 
-**Is it open source**
+I would love to see people create complex projects with DotCode, or even just make something fun.
 
-Yes! It's open source, which means that you can modify and fork DotCode in any way possible. 
-I will even later on turn DotCode into a framework so you can use it in game engines that support packages.
-But **i don't condone you to use DotCode for bad stuff**, but i can't do anything becuase it's open source.
+If you create something, feel free to post it somewhere so I can test it out. (No pressure, of course!)
 
-**What is it right now with DotCode**
+Is it open source?
 
-It's under development right now, but
-please support me by mentioning me if using DotCode, i'm not forcing but i'm just saying if you feel like it!
+Yes! DotCode is open source, which means you can modify and fork it however you like.
 
-Have fun using my source code!
+I also plan to expand DotCode into a framework so it can be used with game engines that support packages.
 
+However, I do not condone using DotCode for harmful purposes. Since DotCode is open source, I cannot completely prevent that, but I encourage responsible use.
 
-  
+What is the current status of DotCode?
+
+DotCode is currently under development.
+
+If you use DotCode, I would appreciate a mention or credit somewhere. This is completely optional, but it would mean a lot.
+
+Have fun using the source code!
