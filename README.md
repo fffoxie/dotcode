@@ -12,8 +12,8 @@ Its main implementation language is Julia, which is my favorite programming lang
 
 You will be able to:
 
-- Make games (using DotGame)
-- Make music (using DotMusic)
+- Make games (using DotGame) // this will be for later
+- Make music (using DotMusic) // this will also be for later
 - Create beginner projects in DotCode (variables, if statements, simple games)
 
 Simple games such as Tic-Tac-Toe or Rock Paper Scissors do not require DotGame unless they need visuals.
