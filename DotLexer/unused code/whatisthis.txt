@@ -1,0 +1,6 @@
+This folder is unused code, that is NOT in the main
+program but it is code so you can learn a bit of Julia
+and also becuase this is how i learned Julia.
+
+I recommend to use this folder to learn Julia, but do whatever you want.
+It's open source remember! :)
