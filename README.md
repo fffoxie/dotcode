@@ -31,8 +31,9 @@ But **i don't condone you to use DotCode for bad stuff**, but i can't do anythin
 **What is it right now with DotCode**
 
 It's under development right now, but
-please support me by mentioning me if using DotCode, i'm not forcing but i'm just saying if you feel like it.
-Have fun with using my source code!
+please support me by mentioning me if using DotCode, i'm not forcing but i'm just saying if you feel like it!
+
+Have fun using my source code!
 
 
   
