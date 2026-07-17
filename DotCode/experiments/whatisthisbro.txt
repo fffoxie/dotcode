@@ -1,0 +1,2 @@
+This is experiments, either to learn new stuff for Dotcode.
+It's not in the maincode as Dotcode, so don't worry about this.
