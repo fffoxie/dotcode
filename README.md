@@ -1,4 +1,4 @@
-# dotcode # ![DotCode Logo](assets/dotcodeicon.png)
+# dotcode ![DotCode Logo](assets/dotcodeicon.png)
 
 The official source code for DotCode, a programming language made by FFFoxie.
 
