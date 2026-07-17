@@ -2,6 +2,8 @@
 
 The official source code for DotCode, a programming language made by FFFoxie.
 
+# ![DotCode Logo](assets/dotcodeicon.png)
+
 **What is DotCode?**
 
 DotCode is a programming language. Unlike other programming languages such as Python and C#, DotCode mainly uses dots and other symbols for functions, if statements, and other programming features.
