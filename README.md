@@ -32,7 +32,6 @@ Yes! DotCode is open source, which means you can modify and fork it however you 
 
 I also plan to expand DotCode into a framework so it can be used with game engines that support packages.
 
-However, I do not condone using DotCode for harmful purposes. Since DotCode is open source, I cannot completely prevent that, but I encourage responsible use.
 
 **What is the current status of DotCode?**
 
